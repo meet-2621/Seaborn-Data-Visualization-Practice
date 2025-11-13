@@ -38,7 +38,7 @@ Through this project, I explored how visualizations can help us understand data 
 ## 📂 How to Run
 1. Clone the repository  
    ```bash
-   git clone :- 
+   git clone :- https://github.com/meet-2621/Seaborn-Data-Visualization-Practice
    Navigate to the project folder
 
 cd Seaborn-Data-Visualization-Practice
